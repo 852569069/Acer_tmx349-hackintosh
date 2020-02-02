@@ -1,4 +1,4 @@
-#Acer travermate x349黑苹果 mojave 10.14.6
+# Acer travermate x349黑苹果 mojave 10.14.6
 
 
 基本配置：
