@@ -1,5 +1,6 @@
 # Acer travermate x349黑苹果 mojave 10.14.6
 
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbiijlauq4j30x60jq45a.jpg)
 
 基本配置：
 
